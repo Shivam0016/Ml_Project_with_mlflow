@@ -13,4 +13,5 @@ types-pyYAML
 Flask
 Flask-Cors
 python-box
+joblib
 -e .
